@@ -63,11 +63,11 @@ ImageNet 사전학습 모델을 활용한 전이학습(Transfer Learning)으로 
 |---|---|
 | ![Exp3](results/demo/EfficientNet_BO_1.png) | ![Exp4](results/demo/ViT_B:16_1.png) |
 
-| Exp1 MobileNetV3 | Exp2 ResNet-50 |
+| MobileNetV3 | ResNet-50 |
 |---|---|
 | ![Exp1](results/demo/MobileNetV3_Small_2.png) | ![Exp2](results/demo/ResNet_50_2.png) |
 
-| Exp3 EfficientNet-B0 | Exp4 ViT-B/16 |
+| EfficientNet-B0 | ViT-B/16 |
 |---|---|
 | ![Exp3](results/demo/EfficientNet_BO_2.png) | ![Exp4](results/demo/ViT_B:16_2.png) |
 
